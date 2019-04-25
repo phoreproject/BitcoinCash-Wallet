@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/OpenBazaar/wallet-interface"
+	"github.com/phoreproject/wallet-interface"
 	"github.com/asticode/go-astilectron"
 	"github.com/asticode/go-astilog"
 	"github.com/atotto/clipboard"

@@ -1,7 +1,7 @@
 package bitcoincash
 
 import (
-	"github.com/OpenBazaar/wallet-interface"
+	"github.com/phoreproject/wallet-interface"
 	"net/http"
 	"time"
 )

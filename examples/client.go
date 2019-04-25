@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/cpacia/BitcoinCash-Wallet"
-	"github.com/cpacia/BitcoinCash-Wallet/db"
+	"github.com/phoreproject/BitcoinCash-Wallet"
+	"github.com/phoreproject/BitcoinCash-Wallet/db"
 	"github.com/op/go-logging"
 )
 

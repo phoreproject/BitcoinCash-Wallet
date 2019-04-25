@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/asticode/go-astilectron"
-	"github.com/cpacia/BitcoinCash-Wallet"
+	"github.com/phoreproject/BitcoinCash-Wallet"
 	"github.com/julienschmidt/httprouter"
 )
 

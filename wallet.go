@@ -10,7 +10,7 @@ import (
 	btc "github.com/btcsuite/btcutil"
 	hd "github.com/btcsuite/btcutil/hdkeychain"
 	"github.com/btcsuite/btcwallet/wallet/txrules"
-	"github.com/cpacia/BitcoinCash-Wallet/exchangerates"
+	"github.com/phoreproject/BitcoinCash-Wallet/exchangerates"
 	"github.com/cpacia/bchutil"
 	"github.com/op/go-logging"
 	b39 "github.com/tyler-smith/go-bip39"
